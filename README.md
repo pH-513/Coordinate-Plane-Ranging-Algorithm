@@ -1,8 +1,6 @@
 # Coordinate-Plane-Ranging-Algorithm
 Python implementation of an algorithm to find the distance between coordinate planes 
 
-코드 개요:
-
 ### data 딕셔너리
  좌표 데이터를 저장하는 딕셔너리입니다. 키는 데이터 그룹을 나타내는 문자열이며, 값은 각 그룹의 좌표 쌍 목록입니다.
 
